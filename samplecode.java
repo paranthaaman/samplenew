@@ -32,6 +32,7 @@ System.out.print("Enter the value of n: ");
 int n = sc.nextInt();  
 System.out.println();  
 //function calling  
-printPattern(n);  
-}  
-}  
+printPattern(n); 
+j dsfj  onaiofn adshnfu da
+	jnd vsbaiufiuadb faerb idjf b ahb bue
+	fjnud iua bgabs yub
